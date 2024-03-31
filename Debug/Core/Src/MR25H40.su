@@ -1,0 +1,15 @@
+MR25H40.cpp:9:1:MR25H40::~MR25H40()	16	static
+MR25H40.cpp:9:1:virtual MR25H40::~MR25H40()	16	static
+MR25H40.cpp:10:1:MR25H40::MR25H40(SPI_HandleTypeDef*, GPIO_TypeDef*, uint16_t)	24	static
+MR25H40.cpp:12:6:void MR25H40::Enable()	16	static
+MR25H40.cpp:15:6:void MR25H40::Disable()	16	static
+MR25H40.cpp:18:6:void MR25H40::Transmit(uint8_t*, uint16_t)	24	static
+MR25H40.cpp:21:6:void MR25H40::Receive(uint8_t*, uint16_t)	24	static
+MR25H40.cpp:25:6:void MR25H40::WriteEnable()	24	static
+MR25H40.cpp:32:6:void MR25H40::WriteDisable()	24	static
+MR25H40.cpp:39:6:void MR25H40::WriteStatusRegister(uint8_t*)	24	static
+MR25H40.cpp:47:6:void MR25H40::WriteData(uint32_t, uint8_t*, uint16_t)	32	static
+MR25H40.cpp:61:6:void MR25H40::ReadStatusRegister(uint8_t*)	24	static
+MR25H40.cpp:69:6:void MR25H40::ReadData(uint32_t, uint8_t*, uint16_t)	32	static
+MR25H40.cpp:77:6:void MR25H40::Sleep()	24	static
+MR25H40.cpp:84:6:void MR25H40::Wake()	24	static
